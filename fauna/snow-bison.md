@@ -1,0 +1,3 @@
+# Snow Bison
+
+one aspect. with hoofed animals, i lean to dinosaur style. keep the fur. for the mouth, maybe something like the hadrosaurs, or the Maiasaura. not full duck bill but boxy, closer in shape to a bison. it has snow white fur, pale blue underlayer fur and glassy white horns, with blue pearlescence. let's do the winter huddle for them. in the herd, females with child are huddled in the center with everyone else around them. calves are born early spring 
