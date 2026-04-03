@@ -5,12 +5,6 @@ title: Weapons
 
 # Weapons
 
-- [Stats](#stat-id)
-- [Razor](#razor-id)
-- [ninklish](ninklish.md)
-- [Octave](ninklish.md#Octave)
-- [Weapon Stats {#stat-id}](#Weapon%20Stats%20{%20stat-id})
-
 ---
 
 ## Weapon Stats {#stat-id}
