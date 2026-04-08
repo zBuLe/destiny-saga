@@ -110,6 +110,7 @@ How the animal organizes socially. The scale runs from individual to undifferent
 - **Herd:** Large multi-family group. The individual still matters. Group defense is a thing. [Zebra, Bison]
 - **Flock:** Large group where the group matters more than the individual. Stragglers are abandoned. A predator catches one and the flock scatters rather than assists. [Migratory geese, Starlings, Fish schools]
 - **Swarm:** Undifferentiated mass. The individual doesn't matter. Loss doesn't change group behavior. A predator catches one and the swarm doesn't stop. [Locusts, Krill]
+- **Gathering:** Individuals drawn to the same resource independently. No social bond, no coordination, no collective behavior. Members need not be the same species. If the resource disappears, they disperse with no impact on each other. [Birds in the same tree, Animals at a watering hole]
 
 ---
 
@@ -126,7 +127,7 @@ How the young enter the world.
 
 How the animal's behavior shifts across the year.
 
-- **Yearround:** Active year-round. No major seasonal phase-shift. [Dog, Deer]
+- **Constant:** Active year-round. No major seasonal phase-shift. [Dog, Deer]
 - **Seasonal:** Strong changes by season — coat, migration, mating behavior, etc. [Arctic fox, Emperor penguin]
 - **Hibernating:** Sleeps through a season. [Bear, Groundhog]
 - **Emergent:** Long inactivity with sudden periodic surges. [Cicadas]
