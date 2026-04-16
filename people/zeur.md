@@ -8,11 +8,7 @@ In the World of Threa, there are 21 races. This is a description of the Zeur, a 
 
 ---
 
-![1](zeur___design_study_by_zbule_dfguhxb.png)
-
-![2](../artwork/zeur___design_study_by_zbule_dfguhxb.png)
-
-![3](artwork/zeur___design_study_by_zbule_dfguhxb.png)
+![Zeur Desingn Study](../artwork/zeur___design_study_by_zbule_dfguhxb.png)
 
 ---
 
