@@ -541,7 +541,7 @@ Components: Shaft, Grip, [Joint]
 ### **Additional Notes**
 
 - **Imoh-Forged:** The `Base`, `Echo`, `Dazzel`, and `Champion` variants are forged by the Imoh.
-- **Foreign-Forged:** The `Heavy`, `Spiked`, `Hook`, and `Reinforced` variants are not of Imoh origin.
+- **Outsider-Forged:** The `Heavy`, `Spiked`, `Hook`, and `Reinforced` variants are not of Imoh origin.
 - **[Third Segment]:** This optional component can be added to make any variant a "triple chuck."
 
 ---

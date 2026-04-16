@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/murai.md",
+                "file": "people/zeur-3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "murai"
+              "title": "zeur-3"
+            }
+          },
+          {
+            "id": "b44e9f6be4b4ca94",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "artwork/zeur___design_study_by_zbule_dfguhxb.png"
+              },
+              "icon": "lucide-image",
+              "title": "zeur___design_study_by_zbule_dfguhxb"
             }
           }
         ]
@@ -185,18 +197,20 @@
   },
   "active": "6212aa815811923f",
   "lastOpenFiles": [
-    "fauna/fauna-descriptors.md",
+    "artwork/zeur___design_study_by_zbule_dfguhxb.png",
+    "artwork/armor_design_2_by_zbule_debdje3.jpg",
+    "artwork/armor_design__by_zbule_de750jq.png",
+    "artwork/aria___design_study_by_zbule_dfbhdir.png",
+    "artwork/arell_seram___to_wind__by_zbule_dirfu48.jpg",
+    "artwork/arcnoble_armor_design_by_zbule_ddox2ez.png",
+    "artwork/april___wistful_embrace__by_zbule_df6hsh3.jpg",
+    "artwork/an_ox_____by_zbule_ddzme8x.jpg",
+    "artwork/alem___lost_brother__by_zbule_debssnj.jpg",
+    "artwork/ajina_anid___to_fire__by_zbule_dihwu78.jpg",
+    "artwork/aetha___design_study_by_zbule_dfsrxtg.jpg",
+    "people/zeur-3.md",
     "people/murai.md",
-    "artwork/valer_litan___to_water_by_zbule_difvtcv.jpg",
-    "artwork/unto_the_dark_by_zbule_denm5kr.jpg",
-    "artwork/unrelenting_exaltation_of_wonderous_gleefulness_by_zbule_deiyas6.jpg",
-    "artwork/unbridled_exuberance_of_jovial_merriment__by_zbule_deiw2mm.jpg",
-    "artwork/trina_chez___to_strength__by_zbule_djbzgae.jpg",
-    "artwork/trill_in_the_night_by_zbule_dem8ngh.jpg",
-    "artwork/tra_gor_doko___of_complexity__by_zbule_dh9ux3a.jpg",
-    "artwork/to_the_sunset__by_zbule_dekozvg.jpg",
-    "artwork/to_the_light__by_zbule_dejswgd.jpg",
-    "artwork/tina_li_by_zbule_dedbshq.jpg",
+    "fauna/fauna-descriptors.md",
     "artwork",
     "Artwork/Facebook/SketchBreak_10226214378208737",
     "Artwork/Facebook/DestinySagaDevelopment_2139637573340",
