@@ -1,11 +1,16 @@
 ---
-layout: default
 title: Aetha and Dreavi
 ---
 
 # Aetha and Dreavi
 
 In the World of Threa, there are 21 races. This is a description of two races that live in the world of Threa, the Aetha and the Dreavi. That I will describe
+
+---
+
+
+![Aetha Design Study](../artwork/aetha___design_study_by_zbule_dfsrxtg.jpg)
+
 
 ---
 

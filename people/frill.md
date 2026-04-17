@@ -8,6 +8,10 @@ This is a description of a race of people that live in the world of Threa, the F
 
 ---
 
+![Frill Design Study](../artwork/frill___design_study_by_zbule_dfdtzog.png)
+
+---
+
 Appearance-wise, the Frills are quite standard looking, with five-fingered hands and feet and a wide range of builds and heights. The color of their skin ranges with various tints and shades of cyan. Their hair and eye are colored in shades and tints of blue Additionally, their hair clumps into sections that appear like spikes. Typically, they have three to five sections in the back, one section covering each ear, and two or three sections in the front. They may have other smaller sections.
 
 ---

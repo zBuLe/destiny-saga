@@ -8,6 +8,9 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Redn Design Study](../artwork/redn___design_study_by_zbule_dfotavu.jpg)
+
+---
 The Redn are simple folk that farm and ranch, bothering no one.
 
 ---

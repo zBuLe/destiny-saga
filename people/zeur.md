@@ -36,7 +36,7 @@ A typical family unit consists of the Boss female, Wife female, multiple Husband
 
 **The Wife** is the main partner and companion for the Boss. She deals with administration and service of the business. The Boss-Wife marriage is the one that receives a ceremony. While it could be strictly business, they are often romantic partners, with courtship and couple stages. The Boss may develop romantic feelings with any of her husbands, though not usually for the Prize. He is more to show off the Boss's status.
 
-**Husbands** are one or more males purchased at auction from their mothers. They provide the labor for the business. Having two husbands is considered successful, with more well-off families having up to five or six husbands. The Boss's marriages with her husbands are transactional—they occur when she purchases them.
+**Husbands** are one or more males purchased at auction from their mothers. They provide the labor for the business. Having two husbands is considered successful, with more well-off families having up to five or six husbands. The Boss's marriages with her husbands are transactional, they occur when she purchases them.
 
 **The Prize** is one husband who will be the father of the Boss's children. Prizes are young males, purchased between ages 20 and 25. They are considered handsome and are often pampered and displayed by their boss. They are at their most expensive and bring a good amount of money at auction.
 
@@ -48,7 +48,7 @@ While the full family unit above is standard, other configurations exist:
 
 **Boss and one Husband:** Since at least one husband is needed for labor, the lone husband would be the father of the Boss's children (as long as he is younger than 30). Older husbands are cheaper but at their peak strength, making this a good start for a poor Zeur family-business.
 
-**Boss and Wife:** This setup is good for clerical or administrative business—basically jobs that are not physically demanding. This setup is also more romantic. Later in their life, they may acquire a husband or a prize to start a family.
+**Boss and Wife:** This setup is good for clerical or administrative business, basically jobs that are not physically demanding. This setup is also more romantic. Later in their life, they may acquire a husband or a prize to start a family.
 
 **Boss, Wife, and Husband (no Prize):** Prizes are young and very expensive. The boss may not indulge in such a luxurious expense. She would use a husband for her children, as long as he is younger than 30 years.
 
@@ -66,7 +66,7 @@ If two Bosses wed (both already having a business and/or family), one must submi
 
 Typically, the Boss bears the children of the family. In some families, the Wife bears children. In rare instances, both do.
 
-Typically, it is the Prize that fathers the children. However, any husband younger than 30 years can father children. In some instances, this happens if time is running out—their husband is about to turn 30, and they don't see themselves ever purchasing a prize.
+Typically, it is the Prize that fathers the children. However, any husband younger than 30 years can father children. In some instances, this happens if time is running out, their husband is about to turn 30, and they don't see themselves ever purchasing a prize.
 
 ### Stigma and Social Notes
 
@@ -85,12 +85,12 @@ When they are children, they are slightly smaller than female children. If the f
 At about age 15, males start growing larger than females. Their muscles begin to bulk up. At this point, the Boss takes interest in their care if they were previously cared for by the Wife. The Boss ensures they continue to grow big and strong.
 
 **20 to 25 years:**
-At age 20, their mother (the Boss) begins to sell them. This can be informal—simply approaching another female Zeur and asking if she would purchase their son—or at a seasonal market auction, where multiple mothers gather to sell their sons and bosses gather to buy them.
+At age 20, their mother (the Boss) begins to sell them. This can be informal, simply approaching another female Zeur and asking if she would purchase their son, or at a seasonal market auction, where multiple mothers gather to sell their sons and bosses gather to buy them.
 
 If purchased between ages 20 and 25, they are bought as Prizes. They have youthful looks and are considered handsome. Their bosses have the longest time to start a family with them. Their bosses would pamper them, display them, and may limit their labor if they can afford to do so. They are at their most expensive and would bring a good amount of money.
 
 **25 to 30 years:**
-If sold between ages 25 and 30, they are sold as Husbands. They have a few years left to start a family and still plenty of years for labor. At this point, they have reached their peak height—about 7 to 8 feet tall. Their muscles still continue to bulk up, though they have yet to reach their peak muscle bulk. They don't fetch the high price they would have when younger. It is at this point that they start to be used as labor, if they weren't already. They also receive their last set of good clothing, as they have finished getting taller.
+If sold between ages 25 and 30, they are sold as Husbands. They have a few years left to start a family and still plenty of years for labor. At this point, they have reached their peak height, about 7 to 8 feet tall. Their muscles still continue to bulk up, though they have yet to reach their peak muscle bulk. They don't fetch the high price they would have when younger. It is at this point that they start to be used as labor, if they weren't already. They also receive their last set of good clothing, as they have finished getting taller.
 
 **30 to 35+ years:**
 After 30, they are no longer desirable for family purposes. They start to hunch over and transition to walking on all fours. Their value decreases significantly, though some may still be purchased as labor. Eventually, they become too infirm to be useful and may be retired or cared for by their family of origin if they're still valued.
@@ -186,9 +186,9 @@ The Pickhammer is a common tool the Zeur possess, used to facilitate various ear
 
 #### Pickhammer as Tool and Weapon
 
-Pickhammers are used as civilian tools. The main function is to break rocks as earth movers. The Puncher makes a good pick, and the Thumper makes a good hammer. However, the investment is not in durability, as that would add weight. While Zeur can carry that weight, it is an investment of time, material, and skill to cast a single solid object. The Pickhammer is more like a refillable hammer—the frame provides durability on the impacting surfaces, while the mass is refillable. On breaking, the frame is recovered, the cover is replaced, and it is filled back up with whatever mass: dirt, sand, gravel. Manufacture, repair, and even tuning are inexpensive, but this comes at the cost of durability and makes it somewhat odd to wield.
+Pickhammers are used as civilian tools. The main function is to break rocks as earth movers. The Puncher makes a good pick, and the Thumper makes a good hammer. However, the investment is not in durability, as that would add weight. While Zeur can carry that weight, it is an investment of time, material, and skill to cast a single solid object. The Pickhammer is more like a refillable hammer, the frame provides durability on the impacting surfaces, while the mass is refillable. On breaking, the frame is recovered, the cover is replaced, and it is filled back up with whatever mass: dirt, sand, gravel. Manufacture, repair, and even tuning are inexpensive, but this comes at the cost of durability and makes it somewhat odd to wield.
 
-The Pickhammer can also be used as a pack—remove the filler and fill it with your items. When not using it for work, the padding may keep your items safe. It's like using a purse, backpack, or duffel bag as a weapon.
+The Pickhammer can also be used as a pack, remove the filler and fill it with your items. When not using it for work, the padding may keep your items safe. It's like using a purse, backpack, or duffel bag as a weapon.
 
 ### Clothing
 
@@ -202,7 +202,7 @@ Because of their mercantile organization, there are Zeur that travel. They keep 
 
 Part of that connection is facilitated through auctions. There is always one each year on the day of the highest sun (Summer Solstice). The gossip network organizes where it will take place. Mothers take their sons to show them off and sell. They can sell at any time of the year, and there may be smaller impromptu auctions as well. Plus, there are other festivities, once again facilitated by the gossip network.
 
-In a big city, an auction may be organized by a Zeur shop, more likely an earthwork shop since they have space. It is not necessarily a public event—it isn't their kingdom; they are doing their own thing. Perhaps it's a summer harvest festival, celebrating their kings, or just another day. The Gossip Network informs Zeur from nearby towns of the event.
+In a big city, an auction may be organized by a Zeur shop, more likely an earthwork shop since they have space. It is not necessarily a public event, it isn't their kingdom; they are doing their own thing. Perhaps it's a summer harvest festival, celebrating their kings, or just another day. The Gossip Network informs Zeur from nearby towns of the event.
 
 **Example gossip exchange:**
 
@@ -212,9 +212,9 @@ In a big city, an auction may be organized by a Zeur shop, more likely an earthw
 
 ## Case Study: Karin and Rina
 
-Karin married Rina, with Karin being the Boss and Rina her Wife. They started a restaurant. The restaurant struggled at the beginning, but soon it started to boom. A few years later, Rina left Karin and took most of their savings. This devastated Karin. At this point, Karin wanted a husband, but could only afford a 35-year-old Tau—too old to start a family, but he was strong, kind, and loyal. She married (purchased) Tau. He was used to expand her business into shipping, in addition to shipping supplies to her restaurant. She ended up hiring two non-Zeur to help with the restaurant. Her shipping business with Tau took off.
+Karin married Rina, with Karin being the Boss and Rina her Wife. They started a restaurant. The restaurant struggled at the beginning, but soon it started to boom. A few years later, Rina left Karin and took most of their savings. This devastated Karin. At this point, Karin wanted a husband, but could only afford a 35-year-old Tau, too old to start a family, but he was strong, kind, and loyal. She married (purchased) Tau. He was used to expand her business into shipping, in addition to shipping supplies to her restaurant. She ended up hiring two non-Zeur to help with the restaurant. Her shipping business with Tau took off.
 
-Some years later, Karin and Tau went to pick up delivered goods to a shop. It turns out that Rina was running that shop by herself. Karin was furious at her for stealing and leaving. Rina apologized and begged for forgiveness. Rina told Karin that to improve the restaurant business, she made a few bets—she gambled to raise money. However, she got into a lot of debt, and collectors were about to go after Karin and the restaurant. So Rina stole the money to pay off the debt and then fled. Eventually, they patched things up and remarried (merger). To show her appreciation, Rina bought Mikke, a prize, for Karin. Mikke is young, impulsive, conceited, and brash. Still, Karin pampered him. While Mikke was aggressive toward Tau, Karin made it clear to him that Tau was more precious to her than Mikke. Eventually, Mikke fathered a child with Karin—a girl named Jaysie.
+Some years later, Karin and Tau went to pick up delivered goods to a shop. It turns out that Rina was running that shop by herself. Karin was furious at her for stealing and leaving. Rina apologized and begged for forgiveness. Rina told Karin that to improve the restaurant business, she made a few bets, she gambled to raise money. However, she got into a lot of debt, and collectors were about to go after Karin and the restaurant. So Rina stole the money to pay off the debt and then fled. Eventually, they patched things up and remarried (merger). To show her appreciation, Rina bought Mikke, a prize, for Karin. Mikke is young, impulsive, conceited, and brash. Still, Karin pampered him. While Mikke was aggressive toward Tau, Karin made it clear to him that Tau was more precious to her than Mikke. Eventually, Mikke fathered a child with Karin, a girl named Jaysie.
 
 ---
 
@@ -222,12 +222,12 @@ Some years later, Karin and Tau went to pick up delivered goods to a shop. It tu
 
 ### Design Philosophy
 
-The initial explorative idea revolved around feminism and women's struggles. Specifically: "What would be masculinism?" Instead of a women-oppressed dynamic, a men-oppressed one. But in a way that does not feminize men, nor masculinize women—at least not too much. This brought in the male menopause concept, the limited procreate ability that is natural in women. In real-life patriarchal societies, there is culture around female fertility, even assigning monetary value. The same concept applies here but in reverse, with men's fertility and strength being the scarce, valued resource. This was partly inspired by domestic animals, especially the turkey that cannot naturally procreate without human interference. The male Zeur's growth pattern and physical decline is the cause of their limited fertility windows.
+The initial explorative idea revolved around feminism and women's struggles. Specifically: "What would be masculinism?" Instead of a women-oppressed dynamic, a men-oppressed one. But in a way that does not feminize men, nor masculinize women, at least not too much. This brought in the male menopause concept, the limited procreate ability that is natural in women. In real-life patriarchal societies, there is culture around female fertility, even assigning monetary value. The same concept applies here but in reverse, with men's fertility and strength being the scarce, valued resource. This was partly inspired by domestic animals, especially the turkey that cannot naturally procreate without human interference. The male Zeur's growth pattern and physical decline is the cause of their limited fertility windows.
 
-The bovine aspect actually comes from their name. In the broader Destiny Saga conceptualization, this race embodies strength and power. Zeus is a nice image of power, and Zeus turned himself into a bull—for which the constellation of Taurus is a representation. Thus, Zeur is a portmanteau of Zeus and Taurus. The visual design continues with the Taurus look.
+The bovine aspect actually comes from their name. In the broader Destiny Saga conceptualization, this race embodies strength and power. Zeus is a nice image of power, and Zeus turned himself into a bull, for which the constellation of Taurus is a representation. Thus, Zeur is a portmanteau of Zeus and Taurus. The visual design continues with the Taurus look.
 
 ### Naming Conventions
 
-Names are designed to allude to complex scientific terms, specifically atomic science. Tau is the most obvious (the Tau Lepton). Ania alludes to Anion (the negatively charged ion). Karin and Rina both allude to Neutrino. Mikke comes from Muon. The concept is that since their conceptual design revolves around strength and the stereotypical strong but not-so-intelligent person, their names should sound smart—a reversal of expectation. Similar to the Simpsons' joke of a muscular action character named Melvin Eugene Punymeyer.
+Names are designed to allude to complex scientific terms, specifically atomic science. Tau is the most obvious (the Tau Lepton). Ania alludes to Anion (the negatively charged ion). Karin and Rina both allude to Neutrino. Mikke comes from Muon. The concept is that since their conceptual design revolves around strength and the stereotypical strong but not-so-intelligent person, their names should sound smart, a reversal of expectation. Similar to the Simpsons' joke of a muscular action character named Melvin Eugene Punymeyer.
 
 ---

@@ -1,96 +1,175 @@
 ---
-title: Rwolf
+title: Rowlf
 ---
 
 # Rowlf
 
-In the World of Threa, there are 21 races. This is a description of a race that lives in the world of Threa, the Rowlf. That I will describe
+In the World of Threa, there are 21 races. This is a description of the Rowlf, a race that lives in the world of Threa.
 
 ---
 
-The Rowlf appearance can be mistaken for a canine animal. they are quadruped with four fingered paws. They have thick tails and floppy ears, which end in a tuft of black fur. Their bodies are covered in fur with a variety of colors and patterns.  Their eye colors can be blues, greens, and oranges. They wear clothing that is unique to quadrupedal bodies. Their vocal range is limited, for example they are unable to pronounce the letter I. As such they prefer writing to communicate, carrying a chalkboard with them.
+![Rowlf Design Study](../artwork/rowlf___design_study_by_zbule_dfodepn.jpg)
 
 ---
 
-hey have no nation or society of themselves to speak of. They do the best of what they can wherever they are. There are three broad populations that are determined on how they interact with other races. The largest are the commoners. not much different than any other race but can be considered second class citizens. their animal appearance and inability to communicate effectively make it hard for them to assert themselves. If they are wronged, they take the loss and move one. They may also find themselves dependent on others to perform tasks that are harder to perform for a quadruped. The next category are the Pets. They are effectively slaves. owned by some master and are used for tasks that otherwise be done by a beast of burden. of particular note are those who serve as pets, like a dog. They live with some degree of luxury, but subservient to their master.  The third are the Wilds. they basically live out in the wild, outside any society or norm. organized as packs, similar to wolves. They hunt, live in caves and burrows. Every so often they may need to trade with other races for things like tools and clothing. 
+## Appearance
+
+The Rowlf appearance can be mistaken for a canine animal. They are quadrupeds with four-fingered paws. They have thick tails and floppy ears, which end in a tuft of black fur. Their bodies are covered in fur with a variety of colors and patterns. Their eye colors can be blues, greens, and oranges.
+
+They wear clothing that is unique to quadrupedal bodies. Their vocal range is limited—for example, they are unable to pronounce the letter "I". As such, they prefer writing to communicate, carrying a chalkboard with them.
 
 ---
 
-Rowlf that are held as pets may find it hard to transition to either of the two other populations. for one, they are being cared for, like how someone care for a horse or a cat. Their owner makes any arrangements for their well being, so when they find themselves without an owner, They really don't know what to do to take care of themselves. and interesting note, is when their owner gives them a name they themselves are unable to pronounce. for example, the name "Fifi" is unpronounceable for a Rowlf, leaving them unable to even introduce themselves.
+## Society
+
+### Population Categories
+
+The Rowlf have no nation or society of themselves to speak of. They do the best they can wherever they are. There are three broad populations determined by how they interact with other races.
+
+**Commoners:** The largest population. Not much different than any other race, but they can be considered second-class citizens. Their animal appearance and inability to communicate effectively make it hard for them to assert themselves. If they are wronged, they take the loss and move on. They may also find themselves dependent on others to perform tasks that are harder to perform for a quadruped.
+
+**Pets:** They are effectively slaves, owned by some master and used for tasks that would otherwise be done by a beast of burden. Of particular note are those who serve as pets, like a dog. They live with some degree of luxury but subservient to their master.
+
+**Wilds:** They basically live out in the wild, outside any society or norm. Organized as packs, similar to wolves. They hunt, live in caves and burrows. Every so often they may need to trade with other races for things like tools and clothing.
+
+### Pets and Identity
+
+Rowlf that are held as pets may find it hard to transition to either of the two other populations. For one, they are being cared for, like how someone cares for a horse or a cat. Their owner makes all arrangements for their well-being, so when they find themselves without an owner, they really don't know what to do to take care of themselves.
+
+An interesting note: when their owner gives them a name they themselves are unable to pronounce, it creates a profound identity problem. For example, the name "Fifi" is unpronounceable for a Rowlf, leaving them unable to even introduce themselves.
+
+An ownerless pet may shed their unpronounceable name for a new one, but this is a hard step to make since it would basically discard their old identity. It is easy if their life as a pet was full of hardship, but if they were a loved pet of the family, they may not be ready to discard that part of themselves just yet—especially if their owner's family had prestige.
+
+### Names and Pronunciation
+
+Rowlf names are a singular personal name, two syllables long. Examples include: Roro, Roru, Rofu, Mufu, Grufo, and Lulu.
+
+The first vowel determines if it's a male or female name:
+- **O** for male names
+- **U** for female names
+
+Pets are named by their owners, so they may not follow this convention. In fact, they may receive names that a Rowlf cannot pronounce, such as Max, Bella, or Fifi.
+
+**Sounds Rowlf cannot replicate:**
+- Vowels: A, I
+- Consonants: B, C, D, K, P, Q, V, W, X
 
 ---
 
-an ownerless pet may shed their unpronounceable name to a new one. but this is hard step to make since it would basically discard their old identity. it is easy if their life as pets was full of hardship. but if they were loved pet of the family, they may not be ready to discard that part of themselves just yet. especially if their owner's family had prestige. 
+## Mechanics and Movement
+
+### Upright Posture
+
+Rowlf can stand on their hind legs and perform most tasks. They can use tools and their weapon standing up. They can only use their chalkboard with their hands, as they cannot handle chalk with their mouths. They can get jobs where mobility limitations are manageable, such as using a footstool to reach a countertop.
+
+### Quadrupedal Posture
+
+On all fours, they have increased mobility and agility. They can walk, run, swim, jump, climb, and move faster and with greater ease than when standing up.
+
+They attach their curved knives and chalkboards to their hind legs for easy access and can reach with their mouths. They may also attach tools to their arms for quick access.
+
+### Communication and Tools
+
+Rowlf typically carry both a chalkboard and a curved knife secured on each of their hind legs when commoners or wilds. Pets do not carry either item.
 
 ---
 
-Rwolf names are just a singular personal name. They are two syllables. Roro, Roru, Rofu, Mufu, Grufo and Lulu are a few examples. The first vowel determines if its a male or female name. O for males, U for females. Pets are named by their owners, so they may not follow this convention. in fact, they may receive names that a rwolf cannot pronounce, like Max, Bella or Fifi. Sounds they cant replicate include the  vowels A and I, and the consonants, B C D K P Q V W X
+## Weapons
+
+### Curved Knife
+
+The curved knife, also called Tooth is the weapon of choice for the Rowlf. The limited dexterity from their paws makes it hard to handle weapons and tools with finesse. Instead, they use their mouths to grip their weapons and tools. The curved knife is the best weapon they can use when gripped by their mouths.
+
+Wilds use it quite effectively for hunting. It is not uncommon for Rowlf to carry a curved knife secured on their hind leg for easy access.
+
+### Tooth
+
+**Type:** Tooth — Weapon of choice of the Rowlf
+
+**Description:** [WIP]
+
+| Variant         | Slash | Pierce | Blunt | Reach | Speed | Defense | Wield    | Effects |
+|-----------------|-------|--------|-------|-------|-------|---------|----------|---------|
+| Jrrn (Horn)     |       |        |       |       |       |         | One-Hand |         |
+| Ff-ng (Fang)    |       |        |       |       |       |         | One-Hand |         |
+| Tss-g (Tusk)    |       |        |       |       |       |         | One-Hand |         |
+| T-lnn (Talon)   |       |        |       |       |       |         | One-Hand |         |
+| On-tlr (Antler) |       |        |       |       |       |         | One-Hand |         |
+| St-ng (Sting)   |       |        |       |       |       |         | One-Hand |         |
+| M-gss (Beak)    |       |        |       |       |       |         | One-Hand |         |
+| Rrrm (Ram)      |       |        |       |       |       |         | One-Hand |         |
+| T-grr (Dagger)  |       |        |       |       |       |         | One-Hand |         |
+
+**Components:** [WIP]
+
+**Variant Descriptions:** [WIP]
+
+**Additional Notes:** [WIP]
 
 ---
 
-Their weapon of choice is a curved knife. The limited dexterity from their paws makes it hard to handle weapons and tools with finesse. instead, they use their mouth to grip their weapons and tools. the curved knife is the best weapon they can use   when gripped by their mouths. Wilds use it quite effectively for hunting. it is not uncommon for Rowlf to carry both a chalkboard and a curve knife secured on each of their hindlegs. Pets don't carry either item
+## Narrative: The Picnic and the Hunt
+
+A noble family went out to a picnic on the lavish lawn of their estate. The coach stopped to let the family out: the gentleman of the house, his wife, their three children, and their pet, a Rowlf named Fifi. As the wife and some servants were setting up the picnic, the children played with Fifi.
+
+Once the food was ready, the children ran to their mother's call. Fifi, exhausted from playing with the children, went and laid down next to her owner, the gentleman. She stretched for a bit. The gentleman gently petted Fifi on her head as they contemplated the family getting ready to eat. The gentleman joined them, leaving Fifi lounging on the grass.
+
+Some moments later, at the edge of the estate, a deer rushed through the bushes, running for its life, as a Rowlf was chasing it. The family watched from the top of the hill as the chase unfolded, and so did Fifi. The deer zigged and zagged, trying to shake off its pursuer. But the Rowlf was able to soon run right by its side. With a swift slash from his curved knife, the deer fell. The Rowlf then grabbed some rope, getting ready to strap the deer on his back.
+
+"Halt!" said the gentleman in a firm, thunderous voice. The Rowlf heard him and approached the gentleman humbly.
+
+"This is my land. As such, that is my deer," said the gentleman.
+
+Unintelligible words escaped the Rowlf's mouth in protest: "Eh mm hun tt" (It's my hunt). The Rowlf proceeded to grab his chalkboard, but the gentleman raised his hand, halting him.
+
+"I'll give you two coins for the deer." This shocked the Rowlf, but then he lowered his ears. He can't argue. The servants grabbed the deer, and the Rowlf reluctantly took the coins.
+
+"Very well. Off you go."
+
+The Rowlf proceeded to head out. Fifi and the Rowlf exchanged looks. Fifi was perplexed. The gentleman gave a few gentle pats to Fifi on her head.
+
+"Did that ruffian terrify you? Don't be. You are not a savage like one of those."
+
+Fifi kept looking at the Rowlf as he exited the estate. When he jumped through the bushes, unseen.
+
+### Narrative Notes
+
+Fifi, being a luxurious pet, has only met other Rowlfs who are also pets. The wild Rowlf is the first time she sees one. One thing that surprised her is that the gentleman was talking to the Rowlf like a person—while not as equals, he treated the Rowlf with enough intelligence for an economic exchange, and halted him from speaking. While the gentleman is kind toward Fifi, he treats her as not intelligent. She was perplexed, not terrified.
+
+Fifi herself has never spoken; she has had no real need to. In a future scene, after Fifi has run away, she comes across the wild Rowlf. He asks for her name. He gives his as "Rofu." When Fifi tries to speak, she is unable to—she can only say "ff ff."
+
+Also, the two coins are below the value of the deer.
+
+### Narrative Development: The Child Variant
+
+**Alternative Development with Child:**
+
+Rofu started the hunt way outside the estate, but his child kept stumbling, missing with slashes. Eventually, the deer ran into the estate. Rofu knew he was in trouble, so he cut the lesson short and went for the kill himself. He had hoped that no one had seen him and could take the deer out as soon as possible, but they were seen.
+
+When the gentleman halts him, Rofu says: "Eh ur hun tt" (It's our hunt). The child says: "mm hun tt" (my hunt).
+
+When the gentleman offers the two coins, the child stomps on the ground, flares his ears, and starts growling: "No Frrrr" (No Fair). Then Rofu hisses at the child. The child drops his stance and looks up at his father. Rofu tilts his head, telling his child to leave: "Ljj" (Leave). The child hesitates. Rofu hisses again, then the child leaves. The gentleman says, "Listen to your papa," as the child runs back to the hedges. Then Rofu lowers his ears and accepts the two coins.
+
+**Design Notes on This Variant:**
+
+This variant keeps the story focused between Fifi, Rofu, and the gentleman while introducing the teaching element of the hunt and the father-child dynamic. Fifi would notice the child peeking through the hedges. The inclusion of the child adds depth to Rofu's character—showing restraint and authority despite his frustration at the situation.
 
 ---
 
-They can stand on their hind legs, and perform most tasks. and can use tools and their weapon standing up. they can only use their chalkboard with their hands, as they cant handle the chalk with their mouths. they can get jobs where their mobility limitations, like using a footstool to reach the countertop. 
-on their fours, the have increased mobility and agility. they can walk, run, swim, jump, climb and more faster and with ease than when standing up. 
-they attached their curved knives and chalkboard on their hindlegs for easy access. they can reach with their mouths. they may also attach tools to their arms, also for quick access.
+## Meta
 
----
+### Design Philosophy
 
----
+The Rowlf were designed as a race that exists in the margins of society—quadrupeds in a world built for bipeds. This creates inherent communication and mobility limitations that force them into specific social niches. The three populations (Commoners, Pets, Wilds) represent different adaptive strategies to this constraint.
 
-a story
+The pet dynamic is particularly significant because it creates a complex relationship with identity and autonomy. A pet given an unpronounceable name experiences an existential limitation—they cannot even name themselves. This serves as both a practical consequence of their vocal limitations and a metaphor for the loss of agency that comes with servitude.
 
-a noble family went out to a picnic at lavish lawn of their estate. the coach stopped to let the family out. The gentleman of the house, his wife, their three children and pet, a Rwolf named Fifi. As the wife , and some servants, were setting up the picnic, the children played with Fifi.
+The naming convention (first vowel determining gender, two syllables) reflects a consistent phonetic system that marks them as distinctly "other" while remaining pronounceable by other races (mostly—hence the negotiation around names like "Fifi").
 
-once the food was ready, the children ran to their mothers call. Fifi, exhausted from playing with the children, went and laid down next to her owner, the gentleman. she stretched for a bit. the gentleman gently petted Fifi on her head as they contemplated the family getting ready to eat. The Gentleman joined them, leaving Fifi lounging on the grass.
+### Narrative Inspiration
 
-some moments latter, at the edge of the estate, a deer rushed thru the bushes,running for its life, as a Rwolf was chasing it. the family watch from the top of the hill the chase unfold, and so did Fifi. the deer zigged and zagged, trying to shake of it pursuer. but the Rwolf was able to soon run right by it side. with a swift slash from his curved knife, the deer fell. The Rwolf then grab some rope, getting ready to strap the deer on his back.
+The picnic scene explores the intersection of these three populations through a single moment: Fifi (Pet) witnessing Rofu (Wild) being treated with economic respect but not social equality by the Gentleman (authority figure). It's a moment of cognitive dissonance for Fifi, who has never heard a Rowlf speak, and realizes that her "savage" cousins are more than she has been led to believe.
 
-"Halt" said the gentleman, in a firm, thunderous voice. the Rwolf heard him. the Rowlf aproached the gentleman humbly.
-
-"This is my lands. As such, that is my deer" said the gentleman
-
-unintelligible words escaped the Rwolf's mouth in protest "Eh mm hun tt (is my hunt)". The rowlf proceeded grab his chalkboard, but the gentleman raised his hand, halting him.
-
-"i'll give you two coins for the deer" this shocked the Rwolf, but then, he lowerd his ears, he can't argue. the servants grabbed the deer, and the Rwolf relunctantly took the coins
-
-"very well. off you go"
-
-the Rwolf proceeded to head out. Fifi and the Rwolf exchange looks. Fifi was perplexed. the the Gentleman gave a few gentle pats to Fifi on her head
-
-"did that rufian terrified you?... dont be, you are not a savage like one of those"
-
-Fifi kept looking at the Rwolf as he exited the estate. when he jump thru the bushes, unseen. 
-
----
-
-A couple of thing. Fifi, being a luxurious pet, has only met other Rowlfs who are also pets. The wild rowlf is the first time she sees one. One thing that she found surprising is that the gentleman was talking to the Rwolf like a person. while not as equals, he treated the Rowlf with enough intelligence for an economic exchange. to halt him from speaking. while the gentleman is kind toward Fifi, he does treat her as not as intelligent. she was perplexed, not terrified.
-Fifi herself has never spoken, she has had no real need to. in a future scene, after Fifi has ran away, she come across the wild Rowlf. he as for her name. he gives his as "Rofu". When Fifi tries, she is unable to. she can only say "ff ff"
-also, the two coins is below the value of the deer. 
-
----
-
-While workshoping this story, there were a few other ideas.
-
-instead of forcing the sell, the gentleman would have threaten Rofu of trespassing, but would take the deer and forget the transgression
-
-another idea is that Rofu was hunting with his child, teaching the child how to hunt. the would have bracketed the deer between them, so it stop zig zaging. when the gentleman would take the deer, the child would protest, then Rofu would send the child away, across the hedges. Fifi would notice the child peaking thru the hedges
-
-The reason against these idea is that it would have painted the gentleman more malevolent, actually exploitative. by forcing the sell, he appears more "fair"
-
-droping the child was to keep the story focused between Fifi, Rofu and the gentleman. but i still like the idea of the child. maybe ill decide to keep it 
-
----
-
-can you make the narrative with the child. 
-Rofu would say "Eh ur hun tt.” (It’s our hunt)., then the child would say "mm hun tt.” (my hunt).
-
-When the gentleman offer the two coins, the child will stomp on the ground, he would flare his ears and start growling "No Frrrr" (No Fair). Then Rofu hisses at child. the child drops his and looks up at his father. Rofu then tilts his head, telling his child to leave "Ljj" (leave). the child hesitates. rofu hisses again, then the child leaves. the gentleman says, "listen to your papa" as the child runs back to the hedges. then rofu lowers his ears and accepts the two coins  
-
----
-
-for rofu, they started the hunt way outside the estate. but the child kept stumbling, missing with the slashes. eventually the deer ran into the estate. Rofu knew he was in trouble, so, he cut the lesson short and went for the kill himself. he had hoped that no one had seen him and take the deer out as soon as possible. but they were seen.
+The variant with the child deepens this by showing the transmission of culture and survival skills within the Wilds, even as external authority (the Gentleman) disrupts that teaching moment. Rofu's choice to silence his child demonstrates his understanding of power dynamics—he knows he cannot win this confrontation.
 
 ---

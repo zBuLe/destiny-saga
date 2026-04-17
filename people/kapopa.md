@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Kapopa Design Study](../artwork/kapopa___design_study_by_zbule_dfpg8gk.jpg)
+
+---
+
 Their appearance is quite unusual, Their skin is covered in fur-like feathers. it come in a wide variety of pasterns and colors. their eyes come in light blue, green and red-orange colors. they have large, sturdy ears. Their head is crowned in a crest of feathers. this feathers come in a variety of color. one feather on the center is of a different color than the rest. they have a wolf like head with a beak like snout. They have an unusual body structure. They have two torsos. as such, their bodies have three pairs of limbs. The top arms, from their top torso, has muscular arms with five fingered hands. their mid limbs, from their second torso, have four toed paws. this set of limbs are like those of real world lions. Their hind legs, from their hip, have three toed talons. their standard posture is quadrupedal, walking on their hindlegs and mid limbs. they can stand at an average of 5 to 6 feet tall. However, they also can stand upright on their hindlegs. Upright, they double their height at a towering 10 to 12 feet. their mid limbs have limited dexterity and can be used for simple task when standing upright. they also have long tail feathers of the same color as their crest feather.
 
 ---

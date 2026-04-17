@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Dis Com Design Study](../artwork/dis_com___design_study_by_zbule_dfcjpug.png)
+
+---
+
 For their appearance: Of Primal form, they have wet noses. Their skin is covered in brown fur, they have green eyes, and their hair ranges between red and orange. The average height is five feet. They have wide, round ears, thin tails, and four-fingered hands and feet. There are differences between males and females: males tend to have thicker, darker fur, with thicker ears and tails, while females have thinner, lighter fur, and their ears and tails are slimmer.
 
 ---

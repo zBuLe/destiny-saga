@@ -22,7 +22,7 @@ title: Peoples Index
 - [minka](minka.md)
 - [jin](jin.md)
 - [murai](murai.md)
-- [Imoh](Imoh.md)
+- [Imoh](../archive/Imoh.md)
 - [corlee](corlee.md)
 - [rowlf](rowlf.md)
 - [nink](nink.md)

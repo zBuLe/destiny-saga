@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Mort  Design Study](../artwork/mort___design_study_by_zbule_dfg8k75.png)
+
+---
+
 The Mort are a patriarchal monarchy. their territory surrounds a dead volcano.
 
 ---

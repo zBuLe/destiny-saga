@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Lauril Design Study](../artwork/lauril___design_study_by_zbule_dfgh3qp.png)
+
+---
+
 on their apearance Lauril have green skin and darker green hair. they eyes have pink irises and yellow sclera. their lips have a slight hue of blue, and so do their freckles and other skin blemish. They have wild and puffy hair, tends to be curly and kinky hair. they have three fingers and two toes. they wear minimal clothing, tall boots, short shorts and a sleeveless shirt. females wear a flower that represent their tribe. males wear a feather from the bird that represents their tribe. they both also wear an armband with the color of their tribe. elders wear longer shirts and sandals.Elders they may also wear shalls.
 
 ---

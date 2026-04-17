@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Aria
 ---
 
@@ -8,6 +7,10 @@ title: Aria
 ---
 
 In the World of Threa, there are 21 races. This is a description of a race that lives in the world of Threa, the Aria. That I will describe.
+
+---
+
+![Aria Design Study](../artwork/aria___design_study_by_zbule_dfbhdir.png)
 
 ---
 

@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Corlee Design Study](../artwork/corle___design_study_by_zbule_dfnq569.jpg)
+
+---
+
 The Corle are a matriarchal mercantile people. however, more often than not. they seek dishonest ways to get their coin.
 
 ---

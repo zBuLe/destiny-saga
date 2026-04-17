@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Lor Design Study](../artwork/lor___design_study_by_zbule_dfazwxg.png)
+
+---
+
 On their physical appearance: Of Basal form, they have four digits on their hands and feet, with pointed fingertips. They have skin-covered horns on top of their heads. Their skin color ranges across various tints and shades of red, pink, orange, and magenta. Their hair and eyes are vibrant reds and oranges, and rarely yellow. As they age, their hair darkens to black. The sclera of their eyes is black. Males tend to be taller than females; males can approach 7 feet tall, while females average 4.5 feet. They have full range of builds, mostly slim or lanky, but can also be lean, muscular or plump
 
 ---

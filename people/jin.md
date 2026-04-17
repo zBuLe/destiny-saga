@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Jin Design Study](../artwork/jin___design_study_by_zbule_dfj5xfd.png)
+
+---
+
 The Jin are an egalitarian farming people. they control vast farmland. secretly, they are masters of covert arts
 
 ---

@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Nink Design Study](../artwork/nink___design_study_by_zbule_dfo5fn2.jpg)
+
+---
+
 The Nink are the smallest of all the races. no taller than one foot. They are unable to produce most sounds in speech. The sounds they make are whistles and bells. They levitate and float everywhere.  They avoid walking
 
 ---

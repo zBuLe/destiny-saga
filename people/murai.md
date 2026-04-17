@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Murai Design Study](../artwork/murai___design_study_by_zbule_dfiqnvx.png)
+
+---
+
 The Murai are Warrior society. each person has a role not just during times of peace, but also during war
 
 ---

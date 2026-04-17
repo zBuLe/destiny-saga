@@ -8,11 +8,13 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Nawa Design Study](../artwork/nawa___design_study_by_zbule_dfu8ybv.jpg)
+
+---
+
 The Nawa, in appearance, have a Basal form. Their skin tones range from light beige to dark brown. Eye colors include brown, blue, green, hazel, and gray. Hair colors range from dark blue and black to brown, blonde, and various shades of red. Hair naturally grays or whitens with age.
 
 Their builds vary widely—tall or short, slim or large, muscular or lean.
-
-[META NOTE: Nawa are basically humans]
 
 ---
 

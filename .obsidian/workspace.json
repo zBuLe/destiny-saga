@@ -13,27 +13,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/zeur-3.md",
+                "file": "people/aetha-dreavi.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zeur-3"
+              "title": "aetha-dreavi"
+            }
+          },
+          {
+            "id": "2c592091c1cfc39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "imoh.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "imoh"
+            }
+          },
+          {
+            "id": "9af298983b6fc681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/frill.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "frill"
+            }
+          },
+          {
+            "id": "5c63ac7654184a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/duga.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "duga"
+            }
+          },
+          {
+            "id": "d68371c6c4a645e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/dis-com.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "dis-com"
+            }
+          },
+          {
+            "id": "195823721ce065db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/corlee.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "corlee"
+            }
+          },
+          {
+            "id": "e77fe6e9ed558415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/aetha-dreavi.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "aetha-dreavi"
             }
           },
           {
             "id": "b44e9f6be4b4ca94",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "artwork/zeur___design_study_by_zbule_dfguhxb.png"
+                "file": "people/aria.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "zeur___design_study_by_zbule_dfguhxb"
+              "icon": "lucide-file",
+              "title": "aria"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,21 +282,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "6212aa815811923f",
+  "active": "2c592091c1cfc39e",
   "lastOpenFiles": [
+    "threa/weapons.md",
+    "archive/weapons.md",
+    "artwork/thru_the_sunbaked_way_by_zbule_dekkhti.jpg",
+    "people/aetha-dreavi.md",
+    "imoh.md",
+    "archive/imoh-2.md",
+    "archive/Imoh.md",
+    "people/jin.md",
+    "people/frill.md",
+    "people/duga.md",
+    "people/dis-com.md",
+    "people/corlee.md",
+    "people/aria.md",
+    "artwork/rowlf___design_study_by_zbule_dfodepn.jpg",
+    "artwork/aetha___design_study_by_zbule_dfsrxtg.jpg",
+    "people/kapopa.md",
+    "people/lauril.md",
+    "people/lor.md",
+    "people/ma-hir.md",
+    "people/minka.md",
+    "people/mort.md",
+    "people/murai.md",
+    "people/nawa.md",
+    "people/nink.md",
+    "people/redn.md",
+    "people/rowlf.md",
+    "artwork/duen__lovia__trini___taken_by_shadows_by_zbule_dhrc5t0.jpg",
     "artwork/zeur___design_study_by_zbule_dfguhxb.png",
     "artwork/armor_design_2_by_zbule_debdje3.jpg",
     "artwork/armor_design__by_zbule_de750jq.png",
     "artwork/aria___design_study_by_zbule_dfbhdir.png",
     "artwork/arell_seram___to_wind__by_zbule_dirfu48.jpg",
     "artwork/arcnoble_armor_design_by_zbule_ddox2ez.png",
-    "artwork/april___wistful_embrace__by_zbule_df6hsh3.jpg",
-    "artwork/an_ox_____by_zbule_ddzme8x.jpg",
-    "artwork/alem___lost_brother__by_zbule_debssnj.jpg",
-    "artwork/ajina_anid___to_fire__by_zbule_dihwu78.jpg",
-    "artwork/aetha___design_study_by_zbule_dfsrxtg.jpg",
     "people/zeur-3.md",
-    "people/murai.md",
     "fauna/fauna-descriptors.md",
     "artwork",
     "Artwork/Facebook/SketchBreak_10226214378208737",
@@ -221,21 +329,6 @@
     "Artwork/Facebook",
     "Artwork/Deviant Art",
     "Artwork",
-    "fauna/index.md",
-    "misc/index.md",
-    "people/index.md",
-    "story/index.md",
-    "threa/index.md",
-    "index.md",
-    "misc/murai-honorific.md",
-    "people/zeur.md",
-    "story/lyndis-chronicle.md",
-    "fauna/Fauna-WIP.md",
-    "fauna/black-tail-snow-ferret.md",
-    "Fauna.md",
-    "black-tail-snow-ferret.md",
-    "snow-bison.md",
-    "emperor-bear.md",
-    "Welcome.md"
+    "fauna/index.md"
   ]
 }

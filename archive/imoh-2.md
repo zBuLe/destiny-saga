@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Imoh Design Study](../artwork/imoh___design_study_by_zbule_dfmjc30.jpg)
+
+---
+
 The Imoh are a simple patriarchal tribal society.  they are nearly isolated from the rest of the Threa due to living on the other side of an impassable mountain range, and encircled by harsh, unnavigable water  
 
 ---

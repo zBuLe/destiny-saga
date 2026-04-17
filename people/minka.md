@@ -8,6 +8,10 @@ In the World of Threa, there are 21 races. This is a description of a race that 
 
 ---
 
+![Nawa  Design Study](../artwork/minka___design_study_by_zbule_dfi6fn2.png)
+
+---
+
 The Minka are a matriarchal warrior people, ruled by Queens. They claim vast forest and jungles as their territory, which the defend fiercely.
 on their appearance, they have feline features. Their eyes have slit pupils, their iris are color jade green, with rare blues and oranges. they have split lips and wet noses. they have prominent canine teeth, whiskers, and tall triangular ears on top of their heads, and a short snout. They have a wide variety of hair colors. Their body is covered in fur. this fur comes in a large variety, inspired by real world cats, dogs, foxes, wolves, skunks and many other animals. They have long tails. The tail can be slim, fluffy, flat, curly, and bushy. they have three fingered hands and feet. they have digitigrade legs. They have claws, female claws are retractable. Females also naturally levitate. males do not. males have a tuff of black hair at the tip of their ears and tail
 

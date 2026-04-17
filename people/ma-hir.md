@@ -1,11 +1,14 @@
 ---
-layout: default
 title: Ma Hir
 ---
 
 # Ma Hir
 
 In the World of Threa, there are 21 races. This is a description of a race that lives in the world of Threa, the Ma Hir. That I will describe. Just comment in the information that I provide. avoid elaborating beyond that
+
+---
+
+![Ma Hir Design Study](../artwork/ma_hir___design_study_by_zbule_dfd0rjj.png)
 
 ---
 
