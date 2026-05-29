@@ -1,0 +1,35 @@
+# Site navigation
+# Each node has a `title` and is one of:
+#   - a link:           has `url` (internal /page/ or external https://...)
+#   - a group:          has `items` (children — nest up to 2 levels deep)
+#   - a linkable group: has BOTH `url` and `items` (clickable link + expand button)
+#   - a heading:        has neither (a non-clickable section label)
+#
+# Internal URLs should match Jekyll's page.url format (leading slash,
+# trailing slash, no baseurl). External URLs auto-detect and open in a new tab.
+
+- title: Overview
+  items:
+    - title: Home
+      url: /
+    - title: Neo
+      url: /neo/
+    - title: About
+      url: /about/
+
+# Linkable group example — clicking "Reference" opens /test/, and
+# the chevron button next to it expands/collapses the child list.
+- title: Reference
+  url: /test/
+  items:
+    - title: Markdown Test
+      url: /test/
+    - title: Text & Typography
+      url: /text/
+    - title: Code Blocks
+      url: /codeblocks/
+
+- title: Links
+  items:
+    - title: GitHub
+      url: https://github.com/BlueStar03/docs-test
