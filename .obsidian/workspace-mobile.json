@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fauna/emperor-bear.md",
-                "mode": "preview",
+                "file": "people/jin.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "emperor-bear"
+              "title": "jin"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "868f50c27b832c70",
   "lastOpenFiles": [
+    "fauna/emperor-bear.md",
     "index.md"
   ]
 }

@@ -32,25 +32,37 @@ There are two broad populations, Soldiers and Exiles. Soldiers have 4 classes: T
 
 ---
 
-Every Soldier is born a Trooper. They are the main labor force — the grunts, infantry, service, and labor workers. Sergeants are junior command; Troopers may advance to Sergeant. While Sergeants may share some tasks with Troopers, they have their own duties and are responsible for leading small formations such as squads and platoons. They also serve as sub-commanders and administrators under Officers in larger formations.
+Every Soldier is born a Trooper. They are the main labor force, the grunts, infantry, service, and labor workers. Sergeants are junior command; Troopers may advance to Sergeant.
 
-Specialist are highly trained experts in their fields. They typically serve as engineers, teachers, and researchers. Both Troopers and Sergeants may advance to Specialist.
+Sergeants may share some tasks with Troopers, they have their own duties and are responsible for leading small formations such as squads and platoons. They also serve as sub-commanders and administrators under Officers in larger formations.
+
+Specialist are highly trained experts in their fields. They typically serve as engineers, instructors, and researchers. Both Troopers and Sergeants may advance to Specialist.
 
 Officers serve as command. Troopers and Sergeants may advance to Officer. Officers lead large formations such as Battalions, Brigades, and the Legion, providing both administration and governance alongside military command.
 
 ---
 
-Exiles are those expelled from Dis Com society and their descendants. A Soldier convicted of a crime demeaned to disrupt unit cohesion, unbecoming of a soldier is sentenced to execution. immediately after sentencing, a mercy is placed on their sentence, Exile. their weapons are dulled, armor broken and ear notched, then they are expelled from their forts, never to return. if they ever even address a Soldier, the mercy of exile is forfeited and execution will be carried out immediately. As Such, Exiles live the rest of outside Dis Com society and integrate into whatever culture exist outside their forts. They may also self exile, to abandon their duties and leave Dis Com society by their own decision. their offspring are also born in exile, never to experience the life of a Soldier. it is highly recommended for those born in exile to have their ears notched, but are not obligated to do so. First Gen are those born as Soldier and were exiled later in life, they have live their entire life as a Soldier and now must adapt into something unknown to them. Second Gen are those born with one, if not both, First Gen parent, as such, will receive some exposure to a Soldier's culture thru their First Gen parents. Third gen don't have any first gen parents. they have little or no knowledge of Soldier culture
+Exiles are those expelled from Dis Com society and their descendants. A Soldier convicted of a crime demeaned to disrupt unit cohesion, unbecoming of a soldier is sentenced to execution. Immediately after sentencing, a mercy is placed on their sentence, Exile. Their weapons are dulled, armor broken and ear notched, then they are expelled from their forts, never to return. If they ever even address a Soldier, the mercy of exile is forfeited and execution will be carried out immediately.
+
+As Such, Exiles live the rest of outside Dis Com society and integrate into whatever culture exist outside their forts. They may also self exile, to abandon their duties and leave Dis Com society by their own decision. their offspring are also born in exile, never to experience the life of a Soldier. it is highly recommended for those born in exile to have their ears notched, but are not obligated to do so.
+
+- First Gen are those born as Soldier and were exiled later in life, they have live their entire life as a Soldier and now must adapt into something unknown to them.
+- Second Gen are those born with one, if not both, First Gen parent, as such, will receive some exposure to a Soldier's culture thru their First Gen parents.
+- Third gen don't have any first gen parents. they have little or no knowledge of Soldier culture
 
 ---
 
 The Dis Com have various attire: Barracks Dress, Garrison Dress, Combat Dress, and Mess Dress.
-Garrison Dress: Sage cargo pants, service coat, black boots with white or olive gaiters, and a sage patrol cap. Under dress includes short or long sleeve shirts and shorts, in black or olive.
-Barracks Dress: A casual version of Garrison Dress. Service coat around the waist, untucked shirts and pants, no cap.
-Mess Dress: Formal attire displaying medals and merits. Includes polished boots and gaiters, straight pants, belt, pressed coat, dress shirt, and garrison cap.
 
-Their combat dress includes their garrison dress plus combat armor. The armor is particularly noteworthy. Their standard issue, medium-weight armor is considered highly effective, with only heavy armors from other groups being comparable. In contrast, Dis Com Heavy armor surpasses all heavy armor due to its robust defenses while remaining the lightest in its category. This is achieved through mastery of two manufacturing techniques. The armor plates are composed of composite ceramics treated in high temperature, high-pressure ovens. These plates are mounted on fatigues made of high-density, composite fiber weave. The helmet is made of the same material as the plates, providing high resistance, mobility, and low weight. Their light armor is the Combat Dress without the ceramic plates and is comparable to other medium armors.
+- Garrison Dress: Sage cargo pants, service coat, black boots with white or olive gaiters, and a sage patrol cap. Under dress includes short or long sleeve shirts and shorts, in black or olive.
+- Barracks Dress: A casual version of Garrison Dress. Service coat around the waist, untucked shirts and pants, no cap.
+- Mess Dress: Formal attire displaying medals and merits. Includes polished boots and gaiters, straight pants, belt, pressed coat, dress shirt, and garrison cap.
+- Their combat dress includes their garrison dress plus combat armor.
+
+The armor is particularly noteworthy. Their standard issue, medium-weight armor is considered highly effective, with only heavy armors from other groups being comparable. In contrast, Dis Com Heavy armor surpasses all heavy armor due to its robust defenses while remaining the lightest in its category. This is achieved through mastery of two manufacturing techniques. The armor plates are composed of composite ceramics treated in high temperature, high-pressure ovens. These plates are mounted on fatigues made of high-density, composite fiber weave. The helmet is made of the same material as the plates, providing high resistance, mobility, and low weight. Their light armor is the Combat Dress without the ceramic plates and is comparable to other medium armors.
 Their heavy armor features thicker plates mounted on a thick, high-density body suit and a full head dome helmet. This design limits mobility but provides exceptional protection. The Dis Com heavy armor is highly resistant to various impacts, essentially making the wearer very formidable in the field. However, it requires a strong individual with significant stamina to effectively use the heavy armor, allowing them to be deployed similarly to tanks.
+
+[Meta: the armor is based on modern basistic armor. the heavy armor is based on bomb suits]
 
 ---
 
@@ -286,7 +298,7 @@ The Liaison Division handles inter-fort communications and messaging with foreig
 
 Couriers are tasked with delivering orders from Command units to combat and support units, ensuring that orders are conveyed as quickly and securely as possible. They also handle message encoding and decoding.
 
-Additionally, the Signal Corps operates the Post Office, which manages non-operational correspondence, primarily enabling soldiers to stay in touch with one another as they move between forts.
+Additionally, the Signal Corps operates the Post Office, which manages non-operational correspondence, primarily enabling soldiers to stay  in touch with one another, cadre units in particular, as they move between forts.
 
 ---
 

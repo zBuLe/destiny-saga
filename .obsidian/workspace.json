@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "imoh.md",
+                "file": "threa/index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "imoh"
+              "title": "index"
+            }
+          },
+          {
+            "id": "ac18da4da1f0e1e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -120,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,13 +292,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c592091c1cfc39e",
+  "active": "ac18da4da1f0e1e9",
   "lastOpenFiles": [
+    "threa/index.md",
+    "meta-axes.md",
+    "imoh.md",
     "threa/weapons.md",
     "archive/weapons.md",
     "artwork/thru_the_sunbaked_way_by_zbule_dekkhti.jpg",
     "people/aetha-dreavi.md",
-    "imoh.md",
     "archive/imoh-2.md",
     "archive/Imoh.md",
     "people/jin.md",
@@ -318,7 +330,6 @@
     "artwork/arell_seram___to_wind__by_zbule_dirfu48.jpg",
     "artwork/arcnoble_armor_design_by_zbule_ddox2ez.png",
     "people/zeur-3.md",
-    "fauna/fauna-descriptors.md",
     "artwork",
     "Artwork/Facebook/SketchBreak_10226214378208737",
     "Artwork/Facebook/DestinySagaDevelopment_2139637573340",
@@ -328,7 +339,6 @@
     "Artwork/Facebook/Destiny Saga",
     "Artwork/Facebook",
     "Artwork/Deviant Art",
-    "Artwork",
-    "fauna/index.md"
+    "Artwork"
   ]
 }
